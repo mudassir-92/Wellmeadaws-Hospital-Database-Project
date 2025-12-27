@@ -1,5 +1,7 @@
 # Wellmeadows Hospital Management System
 
+[![Project Demo](https://img.youtube.com/vi/JUeVRRMV9g0/0.jpg)](https://www.youtube.com/watch?v=JUeVRRMV9g0)
+
 ## Description
 
 Wellmeadows Hospital Management System is a Flutter-based application developed to manage hospital-related operations such as patient records, drug information, and treatment data.
@@ -13,7 +15,6 @@ The application uses SQLite as a local database to ensure fast access, data cons
 * SQLite
 
 ---
-
 
 **Database Repository Link:**
 [https://github.com/mudassir-92/Wellmeadaws-Hospital-Database-Project](https://github.com/mudassir-92/Wellmeadaws-Hospital-Database-Project)
@@ -31,7 +32,7 @@ cd hospital_managment_system
 
 ---
 
-### Step 2: Clone the  Project Repo
+### Step 2: Clone the Project Repo
 
 ```
 git clone https://github.com/mudassir-92/Wellmeadaws-Hospital-Database-Project
