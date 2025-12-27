@@ -3,6 +3,10 @@
 
 [![Wellmeadows Hospital Management System Demo](https://img.youtube.com/vi/JUeVRRMV9g0/0.jpg)](https://www.youtube.com/watch?v=JUeVRRMV9g0)
 
+## Database ER Diagram (ERD)
+
+![Wellmeadows Hospital ERD](https://github.com/mudassir-92/Wellmeadaws-Hospital-Database-Project/blob/main/ERD.png)
+
 ## Description
 
 Wellmeadows Hospital Management System is a Flutter-based application developed to manage hospital-related operations such as patient records, drug information, and treatment data.
