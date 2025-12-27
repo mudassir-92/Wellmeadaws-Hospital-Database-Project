@@ -1,5 +1,5 @@
 # Wellmeadows Hospital Management System
-
+click to play the Video
 [![Project Demo](https://img.youtube.com/vi/JUeVRRMV9g0/0.jpg)](https://www.youtube.com/watch?v=JUeVRRMV9g0)
 
 ## Description
